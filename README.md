@@ -23,6 +23,6 @@
   - [List of OSM feature types](https://wiki.openstreetmap.org/wiki/Map_Features)
   - [List of OSM amenities](https://wiki.openstreetmap.org/wiki/Key:amenity)
 - [Bounding box tool](http://boundingbox.klokantech.com/)
-- folium
+- Folium
   - [Documentation](https://python-visualization.github.io/folium/index.html#)
   - [Good example use case](http://andrewgaidus.com/leaflet_webmaps_python/)
